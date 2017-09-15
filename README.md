@@ -4,7 +4,7 @@ wooyun还在的时候根据别人的审计写的一些msf插件，有几个还�
 
 ### module列表
 * auxiliary
- + zoomeye-search.rb
+    * zoomeye-search.rb
 * exploits
     + Dswjcms-upload-wooyun-2015-0160899.rb
     + Lotapp-exec-wooyun-2015-0133750.rb
